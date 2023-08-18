@@ -1,0 +1,42 @@
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\bin\Debug\Trabalho 3BIMESTRE.exe.config
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\bin\Debug\Trabalho 3BIMESTRE.exe
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\bin\Debug\Trabalho 3BIMESTRE.pdb
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.AssemblyReference.cache
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Form1.resources
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Properties.Resources.resources
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.GenerateResource.cache
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.CoreCompileInputs.cache
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.exe
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.pdb
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Cadastro_de_cliente.resources
+C:\Users\2022102020019\source\repos\Trabalho 3BIMESTRE\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.ResolveComReference.cache
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.AssemblyReference.cache
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.ResolveComReference.cache
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Cadastro_de_cliente.resources
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Form1.resources
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Properties.Resources.resources
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.GenerateResource.cache
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.CoreCompileInputs.cache
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.exe
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.pdb
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\bin\Debug\Trabalho 3BIMESTRE.exe.config
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\bin\Debug\Trabalho 3BIMESTRE.exe
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\bin\Debug\Trabalho 3BIMESTRE.pdb
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Cadastro_de_produto.resources
+C:\Users\IFRO.JP-ALUNOS\source\repos\Trabalho-3B-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Cadastro_de_servico.resources
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\bin\Debug\Trabalho 3BIMESTRE.exe.config
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\bin\Debug\Trabalho 3BIMESTRE.exe
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\bin\Debug\Trabalho 3BIMESTRE.pdb
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.AssemblyReference.cache
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.ResolveComReference.cache
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Cadastro_de_cliente.resources
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Cadastro_de_produto.resources
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Cadastro_de_servico.resources
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Form1.resources
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho_3BIMESTRE.Properties.Resources.resources
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.GenerateResource.cache
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.csproj.CoreCompileInputs.cache
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.exe
+C:\Users\2022102020078\Downloads\Atividade-3Bi-main\Atividade-3Bi-main\Trabalho 3BIMESTRE\obj\Debug\Trabalho 3BIMESTRE.pdb
